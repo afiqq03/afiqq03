@@ -16,8 +16,6 @@ I'm a passionate **Class of 2023** undergraduate student studying Computer Scien
 ## 📚 Education
 **Bachelor of Science (hons) in Netcentric Computing**  
 Universiti teknologi Mara | Jasin Melaka  
-*Expected Graduation: [Month Year]*  
-- Relevant Coursework: [List 3-5 key courses, e.g., Data Structures & Algorithms, Database Systems, Computer Networks]
 - CGPA: 3.5+
 - Dean's Award 2024/2025
 
