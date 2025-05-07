@@ -8,55 +8,32 @@
 <!-- Consider adding a header image or your school logo here -->
 
 ## 🎓 About Me
-I'm a passionate **Class of [Year]** undergraduate student studying [Your Major] at [Your University]. My academic journey has fueled my interest in [Specific Field/Technology, e.g., machine learning, full-stack development, robotics], and I'm actively seeking internship opportunities to:
+I'm a passionate **Class of 2023** undergraduate student studying Computer Science at Universiti Teknologi Mara. My academic journey has fueled my interest in Netcentric Computing, and I'm actively seeking internship opportunities to:
 - Apply classroom knowledge to real-world challenges
 - Collaborate with experienced professionals
-- Grow my skills in [specific technologies/fields]
+- Grow my skills in Mobile and Web application
 - Contribute meaningfully to impactful projects
 
-💡 **Current Focus**: [What are you currently learning/working on? e.g., "Exploring cloud computing with AWS", "Building mobile apps with React Native"]
-
 ## 📚 Education
-**Bachelor of Science in [Your Major]**  
-[Your University Name] | [Location]  
+**Bachelor of Science (hons) in Netcentric Computing**  
+Universiti teknologi Mara | Jasin Melaka  
 *Expected Graduation: [Month Year]*  
 - Relevant Coursework: [List 3-5 key courses, e.g., Data Structures & Algorithms, Database Systems, Computer Networks]
-- [Optional: GPA if 3.0+]
-- [Optional: Academic awards/honors]
+- CGPA: 3.5+
+- Dean's Award 2024/2025
 
 ## 🛠️ Technical Skills
 **Programming Languages**  
-<!-- List with icons -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Tools & Technologies**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-**Concepts**  
-Object-Oriented Programming, REST APIs, Agile Development
-
-<!-- Customize above with your actual skills -->
-
-## 🚀 Featured Projects
-
-### 1. [Project Name]
-[![Repo Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername/project-repo)
-- Short description of project goal and outcome
-- Built with: [Technologies Used]
-- Key features: [List 2-3 main features]
-- [Optional: Demo link]
-
-### 2. [Project Name]
-[![Live Demo Badge](https://img.shields.io/badge/Demo-FF4088?style=flat&logo=google-chrome&logoColor=white)](https://yourdemo.com)
-- Brief explanation of problem solved
-- Technologies: [Your Stack]
-- [Optional: Recognition received]
-
-<!-- Add 2-3 of your best projects -->
 
 ## 🌱 Internship Goals
 I'm particularly interested in opportunities that offer:
