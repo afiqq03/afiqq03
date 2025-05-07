@@ -1,29 +1,81 @@
-# 💫 About Me:
-An IT enthusiasm <br>24/7 Study
+# Hi there, I'm Wan Afiq 👋
+**Undergraduate Student | Aspiring Computer Science Student | Seeking 2024/2025 Internships**
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@domain.com)
+[![Website Badge](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/feek2321) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wanafique) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/WanAfiqDanial03) 
+<!-- Consider adding a header image or your school logo here -->
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
+## 🎓 About Me
+I'm a passionate **Class of [Year]** undergraduate student studying [Your Major] at [Your University]. My academic journey has fueled my interest in [Specific Field/Technology, e.g., machine learning, full-stack development, robotics], and I'm actively seeking internship opportunities to:
+- Apply classroom knowledge to real-world challenges
+- Collaborate with experienced professionals
+- Grow my skills in [specific technologies/fields]
+- Contribute meaningfully to impactful projects
 
+💡 **Current Focus**: [What are you currently learning/working on? e.g., "Exploring cloud computing with AWS", "Building mobile apps with React Native"]
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=afiqq03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=afiqq03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afiqq03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📚 Education
+**Bachelor of Science in [Your Major]**  
+[Your University Name] | [Location]  
+*Expected Graduation: [Month Year]*  
+- Relevant Coursework: [List 3-5 key courses, e.g., Data Structures & Algorithms, Database Systems, Computer Networks]
+- [Optional: GPA if 3.0+]
+- [Optional: Academic awards/honors]
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=afiqq03&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
+## 🛠️ Technical Skills
+**Programming Languages**  
+<!-- List with icons -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Tools & Technologies**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=afiqq03&limit=5&theme=radical&combine_all_yearly_contributions=true)
+**Concepts**  
+Object-Oriented Programming, REST APIs, Agile Development
 
----
-[![](https://visitcount.itsvg.in/api?id=afiqq03&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Customize above with your actual skills -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 1. [Project Name]
+[![Repo Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername/project-repo)
+- Short description of project goal and outcome
+- Built with: [Technologies Used]
+- Key features: [List 2-3 main features]
+- [Optional: Demo link]
+
+### 2. [Project Name]
+[![Live Demo Badge](https://img.shields.io/badge/Demo-FF4088?style=flat&logo=google-chrome&logoColor=white)](https://yourdemo.com)
+- Brief explanation of problem solved
+- Technologies: [Your Stack]
+- [Optional: Recognition received]
+
+<!-- Add 2-3 of your best projects -->
+
+## 🌱 Internship Goals
+I'm particularly interested in opportunities that offer:
+- Hands-on experience with Web/Mobile application development
+- Mentorship from industry professionals
+- Cross-functional team collaboration
+- Opportunities to contribute to production-level code and solve scalability challenges
+
+## 📫 Let's Connect!
+I'm actively looking for summer 2024 internship opportunities and would love to chat about:
+- Software engineering best practices
+- Emerging trends in Netcentric Computing
+
+**Reach me at:**
+- 📧 Email: afiqd503@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/wanafiqdanial03
+
+<!-- Consider adding a call-to-action -->
+📅 **Let's Chat!** [Schedule a meeting via Calendly link] -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=default)](https://git.io/streak-stats)
+<!-- Consider adding other stats cards if desired -->
